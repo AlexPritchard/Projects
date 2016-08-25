@@ -17,6 +17,7 @@ develop-eggs
 .installed.cfg
 lib
 lib64
+Debug
 
 # Installer logs
 pip-log.txt
@@ -37,3 +38,9 @@ nosetests.xml
 # Komodo
 .komodotools/
 *.komodoproject
+
+#VS project files
+*.sln
+*.suo
+*.sdf
+*.vcxproj*
